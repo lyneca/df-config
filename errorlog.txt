@@ -1,0 +1,74 @@
+DOUBLE TAGGED ITEM: Store Item in Stockpile, gold nuggets
+path fail: crundle,46,88,116 -> 47,89,116: Id #2624:Path Goal Seek Station Flood:Station Owner at 47,89,116
+path fail: reacher,30,81,110 -> 0,26,109: Id #2800:Path Goal Seek Station:Station Head for Edge at 0,26,109
+loop path fail: <same square> dwarf,47,39,167 -> 41,29,164: Id #1210:Path Goal Make Believe:Station Mill Building at 50,26,167
+loop path fail: <same square> dwarf,Sleep,47,37,167 -> 40,31,164: Id #655:Path Goal Sleep Bed:Station Mill Building at 50,33,167
+path fail: dwarf,Drink,40,38,169 -> 58,43,167: Id #1469:Path Goal Seek Drink Item:Station None at 23,95,169
+loop path fail: <same square> dwarf,Store Item in Barrel,48,38,167 -> 67,35,166: Id #2426:Path Goal Seek Item for Storage:Station Mill Building at 69,27,167
+loop path fail: <same square> dwarf,Store Item in Bin,47,38,167 -> 50,41,166: Id #2425:Path Goal Seek Item for Storage:Station Mill Building at 49,36,167
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+path fail: black bear man,19,56,169 -> 18,56,168: Id #3193:Path Goal Flee from Opponent:Station Wilderness Curious Steal Target at 54,38,169
+path fail: black bear man,19,56,169 -> 18,55,168: Id #3193:Path Goal Flee from Opponent:Station Wilderness Curious Steal Target at 54,38,169
+path fail: black bear man,19,56,169 -> 19,57,168: Id #3193:Path Goal Flee from Opponent:Station Wilderness Curious Steal Target at 54,38,169
+loop path fail: <same square> dwarf,Pickup Equipment,46,38,167 -> 23,40,167: Id #3130:Path Goal Grab Uniform:Station Mill Building at 64,27,167
+path fail: dwarf,20,58,168 -> 35,74,174: Id #2424:Path Goal Flee Terrain:Station Mill Building at 69,30,167
+path fail: dwarf,Carve Ramp,51,38,167 -> 17,58,168: Id #2776:Path Goal Dig:Station Mill Building at 55,28,167
+path fail: dwarf,17,58,168 -> 17,55,168: Id #3438:Path Goal Seek Station Flood:Station Insane Mood at 17,57,168
+path fail: dwarf,Construct Building,16,53,169 -> 16,59,168: Id #61:Path Goal Drop Off Job Items:Station Mill Building at 68,35,167
+path fail: dwarf,19,56,169 -> 64,36,167: Id #1438:Path Goal Seek Station:Station None at 19,56,169
+loop path fail: <same square> dwarf,53,36,167 -> 68,30,167: Id #2778:Path Goal Seek Station:Station Mill Building at 61,29,167
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+loop path fail: <same square> dwarf,Store Item in Barrel,52,41,167 -> 52,42,167: Id #1469:Path Goal Seek Item for Storage:Station None at 58,43,167
+path fail: dwarf,Construct Building,7,26,169 -> 8,25,169: Id #1438:Path Goal Clean Building Site:Station Mill Building at 54,29,167
+path fail: dwarf,Construct Building,28,28,167 -> 18,22,165: Id #3133:Path Goal Main Job Building:Station Mill Building at 69,30,167
+loop path fail: <same square> llama,59,36,169 -> 62,43,169: Id #3523:Path Goal Seek Station:Station Owner at 64,39,169
+loop path fail: <same square> ewe,65,36,169 -> 64,41,169: Id #3622:Path Goal Seek Station:Station Owner at 60,34,169
+loop path fail: <same square> buzzard,60,40,169 -> 58,43,169: Id #3094:Path Goal Seek Station:Station Milling Flood at 59,42,169
+loop path fail: <same square> yak bull,60,36,169 -> 67,34,169: Id #2434:Path Goal Seek Station:Station Milling Flood at 67,33,169
+loop path fail: <same square> dwarf,Sleep,47,44,167 -> 61,36,159: Id #736:Path Goal Sleep Bed:Station Mill Building at 59,31,167
+loop path fail: <same square> dwarf,47,39,167 -> 59,32,167: Id #3124:Path Goal Seek Station:Station Mill Building at 59,33,167
+loop path fail: <same square> dwarf,40,37,167 -> 59,27,167: Id #3248:Path Goal Seek Station:Station Mill Building at 56,33,167
+loop path fail: <same square> dog,67,39,169 -> 67,42,169: Id #3517:Path Goal Seek Station:Station Owner at 68,40,169
+loop path fail: <same square> dwarf,Construct Building,42,45,169 -> 68,53,169: Id #3589:Path Goal Main Job Building:Station Mill Building at 54,35,167
+path fail: dwarf,Fell Tree,65,38,167 -> 65,49,169: Id #2786:Path Goal Chop:Station Mill Building at 53,35,167
+loop path fail: <same square> dog,60,35,169 -> 62,36,169: Id #3120:Path Goal Seek Station:Station Milling Flood at 62,37,169
+loop path fail: <same square> llama,65,35,169 -> 65,33,169: Id #3313:Path Goal Seek Station:Station Owner at 61,42,169
+loop path fail: <same square> dog,62,36,169 -> 61,41,169: Id #3721:Path Goal Seek Station:Station Owner at 63,42,169
+path fail: dwarf,Construct Building,7,16,169 -> 6,17,169: Id #830:Path Goal Work at Building:Station Mill Building at 57,27,167
+path fail: dwarf,73,41,164 -> 25,22,163: Id #2969:Path Goal Seek Station:Station None at 71,43,164
+path fail: dwarf,Construct Building,58,44,170 -> 57,45,170: Id #3252:Path Goal Main Job Building:Station Mill Building at 57,35,167
+path fail: dwarf,Construct Building,50,35,169 -> 69,46,170: Id #3702:Path Goal Main Job Building:Station Mill Building at 70,30,167
+path fail: dwarf,Construct Building,49,36,169 -> 69,46,170: Id #3578:Path Goal Main Job Building:Station Mill Building at 63,33,167
+path fail: dwarf,Construct Building,49,36,169 -> 69,53,170: Id #3703:Path Goal Main Job Building:Station Mill Building at 67,30,167
+path fail: dwarf,Construct Building,58,47,170 -> 69,54,170: Id #3815:Path Goal Main Job Building:Station Mill Building at 66,28,167
+path fail: dwarf,Construct Building,57,52,170 -> 60,31,166: Id #3570:Path Goal Drop Off Job Items:Station Mill Building at 51,26,167
+path fail: dwarf,Construct Building,47,37,165 -> 57,51,170: Id #3407:Path Goal Main Job Building:Station Mill Building at 57,34,167
+path fail: dwarf,Construct Building,57,49,170 -> 60,36,165: Id #3400:Path Goal Drop Off Job Items:Station Mill Building at 71,32,167
+path fail: dwarf,Construct Building,58,44,170 -> 61,56,170: Id #3573:Path Goal Main Job Building:Station Mill Building at 58,30,167
+path fail: dwarf,Construct Building,47,34,165 -> 57,50,170: Id #1470:Path Goal Main Job Building:Station Mill Building at 35,37,159
+path fail: dwarf,Construct Building,60,45,170 -> 65,56,170: Id #3567:Path Goal Main Job Building:Station Mill Building at 62,28,167
+path fail: dwarf,Construct Building,57,47,170 -> 69,49,170: Id #655:Path Goal Main Job Building:Station Mill Building at 53,32,167
+path fail: dwarf,Construct Building,58,47,170 -> 69,48,170: Id #3820:Path Goal Main Job Building:Station Mill Building at 50,33,167
+path fail: dwarf,Construct Building,54,39,170 -> 60,56,170: Id #3591:Path Goal Main Job Building:Station Mill Building at 49,30,167
+path fail: dwarf,Construct Building,58,43,170 -> 60,57,170: Id #3819:Path Goal Main Job Building:Station Mill Building at 62,29,167
+path fail: dwarf,Construct Building,58,47,170 -> 58,55,170: Id #3401:Path Goal Main Job Building:Station Mill Building at 69,36,167
+path fail: dwarf,Construct Building,48,37,169 -> 63,55,170: Id #2851:Path Goal Main Job Building:Station Mill Building at 66,36,167
+path fail: dwarf,Construct Building,57,47,170 -> 59,56,170: Id #3816:Path Goal Main Job Building:Station Mill Building at 63,34,167
+path fail: dwarf,Construct Building,47,38,166 -> 63,56,170: Id #2966:Path Goal Main Job Building:Station Mill Building at 57,26,167
+path fail: dwarf,Construct Building,47,37,165 -> 57,52,170: Id #3409:Path Goal Main Job Building:Station Mill Building at 55,28,167
+path fail: dwarf,Construct Building,58,44,170 -> 57,49,170: Id #1472:Path Goal Main Job Building:Station Mill Building at 66,32,167
+path fail: dwarf,Construct Building,57,47,170 -> 57,48,170: Id #830:Path Goal Main Job Building:Station Mill Building at 67,35,167
+loop path fail: <same square> dwarf,45,32,167 -> 59,32,167: Id #737:Path Goal Seek Station:Station Mill Building at 59,32,167
+loop path fail: <same square> dwarf,Store Item in Stockpile,47,35,167 -> 60,41,166: Id #743:Path Goal Seek Item for Storage:Station Mill Building at 49,35,167
